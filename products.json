@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Table",
+    "price": 100,
+    "featured": true,
+    "rating": 4.5,
+    "company": "ikea"
+  },
+  {
+    "name": "Chair",
+    "price": 50,
+    "featured": false,
+    "rating": 3.8,
+    "company": "liddy"
+  },
+  {
+    "name": "Sofa",
+    "price": 300,
+    "featured": true,
+    "rating": 4.2,
+    "company": "caressa"
+  },
+  {
+    "name": "Bed",
+    "price": 250,
+    "featured": true,
+    "rating": 4.7,
+    "company": "marcos"
+  },
+  {
+    "name": "Bookshelf",
+    "price": 80,
+    "featured": false,
+    "rating": 4.0,
+    "company": "ikea"
+  },
+  {
+    "name": "Desk",
+    "price": 120,
+    "featured": true,
+    "rating": 4.6,
+    "company": "liddy"
+  },
+  {
+    "name": "Dining Table",
+    "price": 200,
+    "featured": false,
+    "rating": 4.3,
+    "company": "caressa"
+  },
+  {
+    "name": "Wardrobe",
+    "price": 180,
+    "featured": true,
+    "rating": 4.8,
+    "company": "marcos"
+  }
+]
